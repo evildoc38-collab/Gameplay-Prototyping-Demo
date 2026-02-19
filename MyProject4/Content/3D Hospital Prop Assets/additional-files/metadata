@@ -1,0 +1,127 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 4.4000000000000004,
+		"createdAt": "",
+		"description": "<p>A fully modular 3D hospital interior ready to use in games. In the zip file there is a .blend file. The pack contains 25 assets including textures. There are also two folders for textures, the standard PBR .png set, and another set of the same textures in Packed UE5 .TGA format</p><p></p><p>The textures are not applied to the FBX models. They are in a separate folder listed under \"Additional Files\"</p><p></p><p></p><p><strong>***The window Material does not have a texture. Use your engine of choice to make a see-through translucent material to apply to it***</strong></p><p></p><p>The models in blender have materials, but no textures have been applied to them to give you the choice of which textures to use and apply when you choose to. </p><p></p><p>Post screenshots and links to your projects using the asset pack in your work! I would be thrilled to see your projects</p><p></p><p>For any questions do not hesitate to ask them in the comments and I will answer/help as best I can</p><p>I am available for freelance work and you can reach me at maddgameart@gmail.com</p><p></p><p></p><p>An example of the asset pack on youtube: <a target=\"_blank\" href=\"https://www.youtube.com/watch?v=imNLm7-k6og\" rel=\"noopener noreferrer nofollow\">https://www.youtube.com/watch?v=imNLm7-k6og</a></p><p></p><p><strong>Licensing details</strong></p><p></p><p>This asset pack can be used for any commercial or non-commercial project and you may modify it in any way you choose to suit your needs and recreate your imagination.</p><p>It cannot be resold/redistributed in any form of game assets, even if modified, but it's absolutely okay to share it privately within a development team.</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/144ff151-2306-46b5-b4a4-de719ad8a440/a798ac53-7555-4f3f-b82b-78e0f5a91474.png",
+		"publishedAt": "2024-11-14T15:52:35.759060Z",
+		"reviewCount": 4,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/e0389e8d-34d8-4090-9dff-1a991efdfde8/9aa43157-8a51-4fa7-8ae5-d04d36a8c272.png",
+		"title": "Modular 3D hospital environment",
+		"uid": "7e1574fd-1d28-4c6f-a612-c889c09078ef",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "Madd Game Art",
+			"uid": "3cd8633e-0941-427a-963c-8f4a03ce0788"
+		},
+		"tags": [
+			{
+				"name": "Hospital",
+				"slug": "hospital",
+				"uid": "0aea5aaa-59c6-49f7-a094-b26148573932"
+			},
+			{
+				"name": "Spooky",
+				"slug": "spooky",
+				"uid": "3ea21af9-ded0-4e63-bf8c-432432951123"
+			},
+			{
+				"name": "Modular",
+				"slug": "modular",
+				"uid": "3f9ccd49-dae7-45e2-bdb6-9e288855da06"
+			},
+			{
+				"name": "Environment",
+				"slug": "environment",
+				"uid": "8c584304-8d10-44ca-8982-685cae643973"
+			},
+			{
+				"name": "Level",
+				"slug": "level",
+				"uid": "8f2cd337-060b-438b-8d2d-62808026db6f"
+			},
+			{
+				"name": "Interior",
+				"slug": "interior",
+				"uid": "9c40f9f3-f44a-4fba-8221-80d7ef90592a"
+			},
+			{
+				"name": "Horror",
+				"slug": "horror",
+				"uid": "e2b772ec-e68e-400a-89da-4ed6863c2d08"
+			}
+		],
+		"category":
+		{
+			"name": "Horror",
+			"path": "environments/horror",
+			"slug": "environments--horror",
+			"uid": "3cf71866-84b2-4065-a035-1908cb950dff"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Blender",
+					"groupName": "3D DCC Formats",
+					"code": "blender",
+					"icon": "blender",
+					"extensions": [
+						"blend"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "additional-files",
+	"fileId": "8669e881-2287-420b-84c1-4c8ca72fd1c4",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
